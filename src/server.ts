@@ -1,5 +1,5 @@
 import express from 'express';
-import { AbuseDetector } from './src/AbuseDetector.ts';
+import { AbuseDetector } from './AbuseDetector';
 
 const app = express();
 app.use(express.json());
