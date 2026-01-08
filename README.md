@@ -7,7 +7,7 @@ It operates at the **application layer (L7)** and focuses on detecting **behavio
 
 The engine can be deployed as:
 
-* Express/Fastify middleware
+* Express middleware
 * A sidecar service in front of APIs
 * A lightweight internal API security gateway
 
